@@ -2,7 +2,7 @@
 
 ### About me
  
-  - Computer Engineering student at the university of isfahan 
+  - Computer Engineering student at the University of Isfahan 
   - Unity Developer at Medrick Game Studio
   - In love with AI, computers and everything related
   - Hobbies: :closed_book: Books, :video_game: Video games
