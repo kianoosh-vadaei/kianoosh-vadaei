@@ -7,6 +7,10 @@
   - In love with AI, computers and everything related
   - Hobbies: :closed_book: Books, :video_game: Video games
 
+  - I'm a Computer Engineering student at the University of Isfahan. I've always had a deep love for computers, but my true passion lies in Artificial Intelligence (AI). Currently, I'm focused on expanding my knowledge in this exciting field.
+
+Outside of academics, I find joy in playing the piano and dulcimer, and I'm an avid reader, particularly in the realm of philosophy. I also enjoy volunteering and helping others, especially when it comes to programming and learning.
+
 ### Programming Skills
 
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=C&logoColor=white)
