@@ -35,7 +35,7 @@
 
 ## Git Activeness
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kia-vadaei&theme=neon&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kia-vadaei&theme=swift&show_icons=true)
 
 Feel free to explore my repositories and connect with me!
 
