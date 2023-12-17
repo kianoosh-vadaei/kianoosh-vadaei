@@ -14,16 +14,16 @@
 
 ## Skills
 
-![Python]([https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg](https://skillicons.dev/icons?i=python&theme=light))
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-6F00FF?style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/-IoT-0082C8?style=for-the-badge)
+[![Python](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
+[![Django](https://skillicons.dev/icons?i=django&theme=light)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://skillicons.dev)
+[![Arduino](https://skillicons.dev/icons?i=arduino&theme=light)](https://skillicons.dev)
+[![Qt](https://skillicons.dev/icons?i=qt&theme=light)](https://skillicons.dev)
 
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Linux OS](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+[![C++](https://skillicons.dev/icons?i=cpp&theme=light)](https://skillicons.dev)
+[![.NET Framework](https://skillicons.dev/icons?i=dotnet&theme=light)](https://skillicons.dev)
+[![Flutter](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
+[![Linux OS](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
 ## Reach Out to Me
 
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kia.vadaei@gmail.com)
