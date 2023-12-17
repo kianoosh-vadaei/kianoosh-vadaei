@@ -27,17 +27,20 @@
 [![.NET Framework](https://skillicons.dev/icons?i=dotnet&theme=light)](https://skillicons.dev)
 [![Flutter](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
 [![Linux OS](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
-## Reach Out to Me
-
-[![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kia.vadaei@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-vadaei-0aa58611b/)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kiavadaei)
 
 ## Git Activeness
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kia-vadaei&theme=codeSTACKr&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kia-vadaei&layout=compact&theme=codeSTACKr)
+
+
+
+## Reach Out to Me
+
+[![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kia.vadaei@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-vadaei-0aa58611b/)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kiavadaei)
 
 
 Feel free to explore my repositories and connect with me!
