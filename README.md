@@ -14,7 +14,7 @@
 
 ## Skills
 
-![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
+![Python]([https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg](https://skillicons.dev/icons?i=python&theme=light))
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-6F00FF?style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
