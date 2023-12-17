@@ -33,5 +33,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-vadaei-0aa58611b/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kiavadaei)
 
+## Git Activeness
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kia-vadaei&theme=neon&show_icons=true)
+
 Feel free to explore my repositories and connect with me!
 
