@@ -12,7 +12,10 @@
 
 🎮 Hobbies: 📖 Books, 🎮 Video games
 
+
+
 ## Skills
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 [![Python](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
 [![Django](https://skillicons.dev/icons?i=django&theme=light)](https://skillicons.dev)
