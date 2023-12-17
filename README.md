@@ -1,28 +1,34 @@
-# HELLO! I'm Kianoosh Vadaei 👋
+# 👋 Hello! I'm Kianoosh Vadaei
 
-### About me
- 
-  - I'm a Computer Engineering student at the University of Isfahan. I've always had a deep love for computers, but my true passion lies in Artificial Intelligence (AI). Currently, I'm focused on expanding my knowledge in this exciting field.
+## About Me
 
-  - Outside of academics, I find joy in playing the piano and dulcimer, and I'm an avid reader, particularly in the realm of philosophy. I also enjoy volunteering and helping others, especially when it comes to programming and learning.
+🎓 Computer Engineering student at the University of Isfahan with a deep passion for Artificial Intelligence (AI).
 
-  - In love with AI, computers and everything related
-  - Hobbies: :closed_book: Books, :video_game: Video games
+🚀 Currently focused on expanding my knowledge in AI, diving into the exciting world of machine learning and deep learning.
 
-### Programming Skills
+📚 Aside from academics, I find joy in playing the piano and dulcimer. An avid reader, particularly in the realm of philosophy.
 
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=for-the-badge&logo=C&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+💻 In love with AI, computers, and everything tech.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🎮 Hobbies: 📖 Books, 🎮 Video games
+
+## Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-6F00FF?style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/-IoT-0082C8?style=for-the-badge)
 
-### Contact me
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Linux OS](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+## Reach Out to Me
 
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kia.vadaei@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-vadaei-0aa58611b//)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-vadaei-0aa58611b/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kiavadaei)
+
+Feel free to explore my repositories and connect with me!
+
