@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kia-vadaei&theme=viridescent&data=followers,repositories,commits)](https://github.com/kia-vadaei/)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kia-vadaei&theme=nautilus&data=followers,repositories,commits)](https://github.com/kia-vadaei/)
 
 ## About Me
 
