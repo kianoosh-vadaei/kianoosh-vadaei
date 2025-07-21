@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hi!+I'm+Kianoosh+Vadaei;AI+Enthusiast+%26+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</h1>
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kia-vadaei&data=followers,repositories,stars,commits&theme=nautilus&viridescent=nautilus)](https://github.com/kia-vadaei/)
 
 ## About Me
@@ -44,4 +50,3 @@
 
 
 Feel free to explore my repositories and connect with me!
-
