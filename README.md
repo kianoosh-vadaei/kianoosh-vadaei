@@ -18,7 +18,30 @@
 
 🎮 Hobbies: 📖 Books, 🎮 Video games
 
+---
 
+## 🚀 Featured Project
+
+I’m proud to highlight **[MK Unified SSL Toolbox](https://github.com/MK-SSL-Lab/mk-unified-ssl-toolbox)** — my most popular repository and a project born out of countless research iterations and a drive to simplify self-supervised learning. 
+
+It provides a unified and modular playground for experimenting across multiple modalities:
+- 🎧 Audio: Wav2Vec2, HuBERT, COLA, EAT, SpeechSimCLR  
+- 🖼️ Vision: MAE  
+- 🧬 Graph: GraphCL  
+- 🔀 Cross-Modal: CLAP, AudioCLIP, Wav2CLIP  
+
+With **plug-and-play APIs**, HuggingFace + PyTorch integration, and support for distributed training, hyperparameter tuning, LoRA finetuning, and WandB tracking, it’s designed to reduce setup time and maximize exploration.
+
+📦 Install with a single command:
+```bash
+pip install mk-ssl
+```
+
+🌍 [Project Website](https://mk-ssl-lab.github.io/mk-unified-ssl-toolbox/)
+
+If this work resonates with you, a ⭐ on GitHub would mean a lot and help the project grow!
+
+---
 
 ## Skills
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
