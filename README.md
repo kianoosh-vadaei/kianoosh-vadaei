@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kia-vadaei&data=followers,repositories,stars,commits&theme=nautilus&viridescent=nautilus)](https://github.com/kia-vadaei/)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=kianoosh-vadaei&data=followers,repositories,stars,commits&theme=nautilus&viridescent=nautilus)](https://github.com/kianoosh-vadaei/)
 
 ## About Me
 
@@ -59,9 +59,9 @@ If this work resonates with you, a ⭐ on GitHub would mean a lot and help the p
 
 ## Git Activeness
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kia-vadaei&theme=codeSTACKr&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianoosh-vadaei&theme=codeSTACKr&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kia-vadaei&layout=compact&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianoosh-vadaei&layout=compact&theme=codeSTACKr)
 
 
 
@@ -73,3 +73,4 @@ If this work resonates with you, a ⭐ on GitHub would mean a lot and help the p
 
 
 Feel free to explore my repositories and connect with me!
+
